@@ -1,0 +1,5 @@
+Good: Super, enjoy outside.
+Moderate: Air quality is acceptable.
+USG: People with lung disease can be affected.
+Very unhealthy: everyone may experience serious health effects.
+Hazardous: Health warnings of emergency conditions. 
